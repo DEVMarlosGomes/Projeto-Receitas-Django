@@ -1,0 +1,18 @@
+{
+    "src.extension.no_active_editor": "No active editor!",
+
+    "src.extension.command.main.quickpick.title": "Please operate in order",
+    "src.extension.command.main.quickpick.placeholder": "Operation number",
+
+    "src.extension.command.main.quickpick.1.desc": "❗Get tkinter and pyinstaller template (very important)",
+    "src.extension.command.main.quickpick.2.desc": "❗Create a virtual environment | Copy to clipboard: `virtualenv venv`",
+    "src.extension.command.main.quickpick.3.desc": "❗Activate the virtual environment | Copy to clipboard: `venv\\Scripts\\activate`",
+    "src.extension.command.main.quickpick.4.desc": "❗Install pyinstaller in the virtual environment | Copy to clipboard: `pip install pyinstaller`",
+    "src.extension.command.main.quickpick.5.desc": "(Optional) View dependencies needed for installation | Copy to clipboard: `pip freeze > requirements.txt`",
+    "src.extension.command.main.quickpick.6.desc": "(Optional) Install all the dependencies you need in the virtual environment",
+    "src.extension.command.main.quickpick.7.desc": "(Optional) Run your main program in the virtual environment | Copy to clipboard: `python main.py`",
+    "src.extension.command.main.quickpick.8.desc": "View the .spec file and add the necessary folders and parameters.",
+    "src.extension.command.main.quickpick.9.desc": "❗Package into exe | Copy to clipboard: `pyinstaller main.spec`",
+
+    "src.extension.command.main.quickpick.hint": "Copied to clipboard! Please paste the command in the terminal!"
+}

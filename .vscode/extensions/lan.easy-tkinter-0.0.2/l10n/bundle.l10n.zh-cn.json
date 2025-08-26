@@ -1,0 +1,19 @@
+{
+    "src.extension.no_active_editor": "没有激活的编辑器!",
+
+    "src.extension.command.main.quickpick.title": "请按顺序来操作",
+    "src.extension.command.main.quickpick.placeholder": "操作号",
+
+    "src.extension.command.main.quickpick.1.desc": "❗获取tkinter和pyinstaller模板(非常重要)",
+    "src.extension.command.main.quickpick.2.desc": "❗创建一个虚拟环境 | 复制到剪贴板: `virtualenv venv`",
+    "src.extension.command.main.quickpick.3.desc": "❗进入虚拟环境 | 复制到剪贴板: `venv\\Scripts\\activate`",
+    "src.extension.command.main.quickpick.4.desc": "❗在虚拟环境中安装pyinstaller | 复制到剪贴板: `pip install pyinstaller`",
+    "src.extension.command.main.quickpick.5.desc": "(可选)查看安装需要的依赖 | 复制到剪贴板: `pip freeze > requirements.txt`",
+    "src.extension.command.main.quickpick.6.desc": "(可选)在虚拟环境中安装好所有你需要的依赖",
+    "src.extension.command.main.quickpick.7.desc": "(可选)在虚拟环境中运行你的主程序 | 复制到剪贴板: `python main.py`",
+    "src.extension.command.main.quickpick.8.desc": "查看 .spec 文件,并且将需要打包的文件夹添加好,填写好参数.",
+    "src.extension.command.main.quickpick.9.desc": "❗打包成 exe | 复制到剪贴板: `pyinstaller main.spec`",
+
+    "src.extension.command.main.quickpick.hint": "已复制到剪贴板 !请在终端中 粘贴指令! "
+
+}
